@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".learneth/ethereum/remix-workshops/2. Basic Syntax/basicSyntax.sol": "MyContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".learneth/ethereum/remix-workshops/2. Basic Syntax/basicSyntax.sol": {
+			"keccak256": "0xbd7adb58c0fe6ee28e1b5553889daa6c804a5532bc91003835a5d5fab8c6df0d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8ad99fe605e59949a737587ce08317e7ae08ff6078c47548e201c662493c46c9",
+				"dweb:/ipfs/QmX5obGq5QjpozsBch8Ak14893Nr3tX7L4uN1aBJyJkNYY"
+			]
+		}
+	},
+	"version": 1
+}
